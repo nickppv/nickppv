@@ -13,6 +13,4 @@
     <img src="https://komarev.com/ghpvc/?username=nickppv&style=flat-square&color=green&label=You+Are+Wonderful+Person+№" alt=""/>
 </div>
 <br>
-<h1 align="center">
-Long time no see <img src="https://media1.giphy.com/media/83b2CzGZKvoGyTkV2J/200w.webp?cid=ecf05e472itluyyhg60s0k95ha6msptdjdx7enpp00abldjw&ep=v1_stickers_search&rid=200w.webp&ct=s" width="50">
-</h1>
+<h1 align="center">Hiya!</h1>

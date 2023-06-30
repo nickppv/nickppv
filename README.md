@@ -10,7 +10,7 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=nickppv&style=flat-square&color=green&label=You+Are+Wonderful+Person+№" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=nickppv&style=flat-square&color=green&label=You're+Wonderful+Person+№" alt=""/>
 </div>
 <br>
 <h1 align="center">Hiya!</h1>
